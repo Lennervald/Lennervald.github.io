@@ -1,0 +1,1055 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"last",
+				"last_li"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"dropdown",
+				"dropdown-submenu"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"base-color",
+				"base-color-blue"
+			],
+			[
+				"sans-ser",
+				"font-family-sans-serif"
+			],
+			[
+				"border",
+				"border-top-radius"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"base-font",
+				"base-font-size-p"
+			],
+			[
+				"font-fa",
+				"font-family-serif"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pre",
+				"pre-wrap"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-fami",
+				"font-family-serif"
+			],
+			[
+				"col-sm",
+				"col-sm-8"
+			],
+			[
+				"left",
+				"border-left"
+			],
+			[
+				"font-fam",
+				"font-family-cursive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"font-siz",
+				"base-font-size-h1"
+			],
+			[
+				"base",
+				"base-font-size-p"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"emula",
+				"emulateClick"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"render",
+				"renderTemplate"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"blog",
+				"blogPosts"
+			],
+			[
+				"remove",
+				"removeFromListByIndex"
+			],
+			[
+				"item",
+				"itemIndex"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"rem",
+				"removedItem"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"hidden",
+				"hidden-xs"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"lorem",
+				"lorem\tHTML - Lorem Ipsum"
+			],
+			[
+				"backi",
+				"background-size"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"sty",
+				"text-decoration-style"
+			],
+			[
+				"style",
+				"outline-style"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fonst",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddint",
+				"padding-bottom"
+			],
+			[
+				"border-st",
+				"border-bottom-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"order",
+				"border-bottom"
+			],
+			[
+				"argin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/mlennervald/Projects/Lennervald.github.io/index.html",
+			"settings":
+			{
+				"buffer_size": 106,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mlennervald/Projects/Lennervald.github.io/.gitignore",
+			"settings":
+			{
+				"buffer_size": 1168,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "theme",
+		"selected_items":
+		[
+			[
+				"theme",
+				"Boxy Theme: Activation"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"github",
+				"github: open repo"
+			],
+			[
+				"git bra",
+				"git: branch"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"git pus",
+				"git: push"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"git remote",
+				"git: remote add"
+			],
+			[
+				"git re",
+				"git: reset"
+			],
+			[
+				"git res",
+				"git: reset"
+			],
+			[
+				"che",
+				"git: checkout"
+			],
+			[
+				"origin",
+				"github: set remote for integration"
+			],
+			[
+				"git rem",
+				"github: set remote for integration"
+			],
+			[
+				"hub",
+				"github: set remote for integration"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"log",
+				"git: log"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: CSS"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"SYNT HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"synta css",
+				"Set Syntax: CSS"
+			],
+			[
+				"synta htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax ",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sublim scheme",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"color scheme",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"pack ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"csslint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"snipp",
+				"Snippet: setTimeout function"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synta php",
+				"Set Syntax: PHP"
+			],
+			[
+				"snippe",
+				"Snippet: PHP: Script start tag"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"new file",
+				"File: New View into File"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 208.0,
+		"history":
+		[
+			"house[\"floors\"];",
+			"house",
+			"floor",
+			"console.log('hey');",
+			"clear",
+			"git",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mlennervald/Projects/Lennervald.github.io"
+	],
+	"file_history":
+	[
+		"/Users/mlennervald/Projects/SUW16/assignments/e-handel/less/all.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/e-handel/less/main.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/e-handel/www/js/main.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/e-handel/www/index.html",
+		"/Users/mlennervald/Source/firebug lite/firebug_lite.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/e-handel/www/js/smartmenu.min.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/e-handel/www/css/main.css",
+		"/Users/mlennervald/Projects/SUW16/assignments/e-handel/node_modules/less/test/less/import/imports/font.less",
+		"/Users/mlennervald/Projects/personal-site/www/index.html",
+		"/Users/mlennervald/Projects/personal-site/.gitignore",
+		"/Users/mlennervald/Projects/learn-git/file1.txt",
+		"/Users/mlennervald/Projects/personal-site/settingsConstr.js",
+		"/Users/mlennervald/Projects/personal-site/classLoader.js",
+		"/Users/mlennervald/Downloads/SUW16/www/index.html",
+		"/Users/mlennervald/Downloads/SUW16/less/main.less",
+		"/Users/mlennervald/Downloads/SUW16/classes/LessWatch.class.js",
+		"/Users/mlennervald/Downloads/SUW16/app.js",
+		"/Users/mlennervald/Library/Application Support/Sublime Text 3/Packages/User/GitSavvy.sublime-settings",
+		"/Users/mlennervald/Library/Application Support/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/Users/mlennervald/Downloads/SUW16/package.json",
+		"/Users/mlennervald/Downloads/SUW16/.gitignore",
+		"/Users/mlennervald/Desktop/example/index.html",
+		"/Users/mlennervald/Desktop/example/main.css",
+		"/Users/mlennervald/Desktop/example/main.js",
+		"/Users/mlennervald/Desktop/example/jquery.js",
+		"/Users/mlennervald/Desktop/example/alter.css",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blog/node_modules/bootstrap/less/variables.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blogg/www/index.html",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blogg/less/main.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blogg/www/js/main.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blogg/node_modules/bootstrap/less/variables.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blogg/less/all.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blogg/app.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/asas-blogg/www/css/all.css",
+		"/Users/mlennervald/Projects/SUW16/sandbox/testing-stuff/www/css/all.css",
+		"/Users/mlennervald/Projects/SUW16/sandbox/testing-stuff/less/all.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/less/thumbnails.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/less/test/less/mixins.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/less/panels.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/less/tooltip.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/less/mixins.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/less/bootstrap.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/less/google-fonts.css",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/jquery/src/event.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/www/posts.json",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/less/all.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/www/css/all.css",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/www/template.html",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/classes/LessWatch.class.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/www/index.html",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/www/css/google-fonts.css",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/dist/js/bootstrap.js",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/less/glyphicons.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/node_modules/bootstrap/less/variables.less",
+		"/Users/mlennervald/Projects/SUW16/assignments/blog/app.js",
+		"/Users/mlennervald/Source/SUW16/.gitignore",
+		"/Users/mlennervald/Projects/SUW16/less/settingsConstr.js",
+		"/Users/mlennervald/Projects/SUW16/less/app.js",
+		"/Users/mlennervald/Projects/SUW16/less/less/all.less",
+		"/Users/mlennervald/Projects/SUW16/less/www/css/all.css",
+		"/Users/mlennervald/Projects/SUW16/less/less/main.less",
+		"/Users/mlennervald/Projects/SUW16/less/www/index.html",
+		"/Users/mlennervald/Projects/SUW16/less/less/variables.less",
+		"/Users/mlennervald/Projects/SUW16/less/node_modules/bootstrap/less/variables.less",
+		"/Users/mlennervald/Projects/SUW16/todo-list/www/js/todo-list.js",
+		"/Users/mlennervald/Source/responsive-grid/header.css",
+		"/Users/mlennervald/Projects/hangman/www/js/custom.js",
+		"/Users/mlennervald/Projects/javascripts/www/normalize.css",
+		"/Users/mlennervald/Projects/javascripts/www/index.html",
+		"/Users/mlennervald/Projects/javascript-intro/www/default.js",
+		"/Users/mlennervald/Projects/javascript-intro/.gitignore",
+		"/Users/mlennervald/Projects/javascript-intro/.DS_Store",
+		"/Users/mlennervald/Projects/javascript-intro/www/custom.js",
+		"/Users/mlennervald/.bash_profile",
+		"/Users/mlennervald/Projects/javascript-one/www/css/normalize.css",
+		"/Users/mlennervald/Projects/cafe-lorem/package.json",
+		"/Users/mlennervald/Projects/cafe-lorem/www/css/normalize.css",
+		"/Users/mlennervald/Downloads/cafe-lorem source/Beskrivning.md",
+		"/Users/mlennervald/Projects/bootstrap/www/index.html",
+		"/Users/mlennervald/Projects/bootstrap/www/js/custom.js",
+		"/Users/mlennervald/Projects/responsive/www/header.css",
+		"/Users/mlennervald/Projects/responsive/www/grid.css",
+		"/Users/mlennervald/Projects/noname/classLoader.js",
+		"/Users/mlennervald/Projects/noname/www/subs/index.html",
+		"/Users/mlennervald/Projects/noname/www/link3.html",
+		"/Users/mlennervald/Projects/noname/www/subs/link3.html",
+		"/Users/mlennervald/Projects/noname/www/js/script.js",
+		"/Users/mlennervald/Projects/landing-page/www/css/normalize.css",
+		"/Users/mlennervald/Projects/SUW16/www/css/normalize.css",
+		"/Users/mlennervald/Projects/SUW16/nodemon.json",
+		"/Users/mlennervald/Projects/SUW16/app.js",
+		"/Users/mlennervald/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mlennervald/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mlennervald/Projects/SUW16/.gitignore",
+		"/Users/mlennervald/Projects/SUW16/www/index.html",
+		"/Users/mlennervald/Projects/SUW16/www/css/style.css",
+		"/Users/mlennervald/Projects/SUW16/notes.txt",
+		"/Users/mlennervald/Projects/SUW16/www/style.css",
+		"/Users/mlennervald/Projects/SUW16/package.json",
+		"/Users/mlennervald/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/mlennervald/Desktop/git-repos/first-repo/style.css",
+		"/Users/mlennervald/Desktop/git-repos/first-repo/javascript.js",
+		"/Users/mlennervald/Desktop/git-repos/first-repo/normalize.css",
+		"/Users/mlennervald/Desktop/git-repos/first-repo/README.md",
+		"/Users/mlennervald/Desktop/git-repos/first-repo/.gitignore",
+		"/Users/mlennervald/Desktop/git-repos/first-repo/index.html",
+		"/Users/mlennervald/Desktop/git-repos/first-repo/test.php",
+		"/Users/mlennervald/Desktop/git-repos/just-a-demo/.gitignore",
+		"/Users/mlennervald/Desktop/just-a-demo/index.html",
+		"/Users/mlennervald/Documents/test.php",
+		"/Applications/.¨",
+		"/Applications/¨",
+		"/Library/WebServer/Documents/index.html",
+		"/Users/mlennervald/Library/Application Support/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/Library/WebServer/Documents/index.html.en",
+		"/Users/mlennervald/Documents/PW MySQL",
+		"/Users/mlennervald/Desktop/index.html",
+		"/Users/mlennervald/Desktop/test.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<img src",
+			"Tre",
+			"test",
+			"down",
+			"dropdown",
+			"content",
+			"70",
+			"div",
+			"caption",
+			"blue",
+			"base-orange",
+			"orange",
+			"}\n",
+			"auther",
+			"h3",
+			"h1",
+			"post",
+			"\"title\"",
+			"20",
+			"item",
+			"bottom",
+			"6374693",
+			"attempts",
+			"h1",
+			"h4",
+			"circle",
+			"col-xs-4",
+			"md",
+			"C",
+			"c",
+			"C",
+			"column",
+			"4",
+			"6",
+			"padding",
+			"\n\t",
+			"md",
+			"bg",
+			"md",
+			"test",
+			"3000",
+			"one-half",
+			"two-thirds",
+			"one-half",
+			"half",
+			"one-third",
+			"style",
+			"one-fifth",
+			"one-fourth",
+			"half",
+			"div",
+			"section",
+			"nav",
+			"ul",
+			"one-third",
+			"2",
+			"Länk",
+			" -->",
+			"\n<div class=\"test\">\n\t<i class=\"fa fa-snapchat\" aria-hidden=\"true\"></i>\n</div>\n<div class=\"test\"><h1>Are you looking?</h1></div>",
+			"test",
+			"md",
+			"dolor",
+			"Hemligheter",
+			"</i>",
+			"test",
+			"2B2D42",
+			"p",
+			"div",
+			"Roboto",
+			"div",
+			"block",
+			"<section>",
+			"h3",
+			"h1",
+			"<h1>",
+			"h2",
+			"section",
+			"Lorem",
+			"4",
+			"div",
+			"strong",
+			"str",
+			"world",
+			"h3",
+			"!</",
+			"world",
+			"Hello",
+			"h2",
+			"<!",
+			"h1",
+			"rubrik",
+			"title",
+			"html",
+			"meta",
+			"headline",
+			"overflow",
+			"progress",
+			"view",
+			"article",
+			"dolor",
+			"ips",
+			"var",
+			"test",
+			"source",
+			"python",
+			"## Making my own README.md\n",
+			"\t<",
+			"<>",
+			"p>",
+			"<p>",
+			"nulla",
+			"p"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/mlennervald/Projects/Lennervald.github.io/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/mlennervald/Projects/Lennervald.github.io/index.html",
+							"git_savvy.repo_path": "/Users/mlennervald/Projects/Lennervald.github.io",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mlennervald/Projects/Lennervald.github.io/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"git_savvy.repo_path": "/Users/mlennervald/Projects/Lennervald.github.io",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "lennervald-github-io.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fonts",
+				"node_modules/less/test/less/import/imports/font.less"
+			],
+			[
+				"exa",
+				"~/Desktop/example/index.html"
+			],
+			[
+				"variables",
+				"node_modules/bootstrap/less/variables.less"
+			],
+			[
+				"bootstrapless",
+				"node_modules/bootstrap/less/thumbnails.less"
+			],
+			[
+				"mixins",
+				"node_modules/less/test/less/mixins.less"
+			],
+			[
+				"bootless",
+				"node_modules/bootstrap/less/tooltip.less"
+			],
+			[
+				"mixin",
+				"node_modules/bootstrap/less/mixins.less"
+			],
+			[
+				"bootstra",
+				"node_modules/bootstrap/less/bootstrap.less"
+			],
+			[
+				"events",
+				"node_modules/jquery/src/event.js"
+			],
+			[
+				"lewa",
+				"classes/LessWatch.class.js"
+			],
+			[
+				"lesswatch",
+				"classes/LessWatch.class.js"
+			],
+			[
+				"bootstrajs",
+				"node_modules/bootstrap/dist/js/bootstrap.js"
+			],
+			[
+				"boots",
+				"node_modules/bootstrap/less/bootstrap.less"
+			],
+			[
+				"glyph",
+				"node_modules/bootstrap/less/glyphicons.less"
+			],
+			[
+				"bootstrap.less",
+				"node_modules/bootstrap/less/bootstrap.less"
+			],
+			[
+				"bootvar",
+				"node_modules/bootstrap/less/variables.less"
+			],
+			[
+				"bootstrapvariab",
+				"node_modules/bootstrap/less/variables.less"
+			],
+			[
+				"i",
+				"www/index.html"
+			],
+			[
+				"s",
+				"www/css/style.css"
+			],
+			[
+				"sty",
+				"www/css/style.css"
+			],
+			[
+				"index",
+				"www/index.html"
+			],
+			[
+				"st",
+				"www/css/style.css"
+			],
+			[
+				"notes",
+				"www/notes.txt"
+			],
+			[
+				"n",
+				"nodemon.json"
+			],
+			[
+				"",
+				"www/index.html"
+			],
+			[
+				"stye",
+				"www/css/style.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ind",
+				"~/Downloads/demo/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
