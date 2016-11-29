@@ -251,7 +251,7 @@
 			"file": "/Users/mlennervald/Projects/Lennervald.github.io/index.html",
 			"settings":
 			{
-				"buffer_size": 106,
+				"buffer_size": 201,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -260,7 +260,7 @@
 			"file": "/Users/mlennervald/Projects/Lennervald.github.io/.gitignore",
 			"settings":
 			{
-				"buffer_size": 1168,
+				"buffer_size": 1217,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -490,7 +490,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -794,15 +794,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 106,
+						"buffer_size": 201,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								106,
-								106
+								184,
+								186
 							]
 						],
 						"settings":
@@ -824,15 +824,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1168,
+						"buffer_size": 1217,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								456,
-								456
+								79,
+								79
 							]
 						],
 						"settings":
@@ -1027,6 +1027,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Projects/SUW16/assignments/e-handel/sublime-project-files/e-handel.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
